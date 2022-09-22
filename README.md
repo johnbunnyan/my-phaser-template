@@ -5,7 +5,7 @@
 > 3. 터미널 열어서 rm -rf .git 으로 로컬 저장소 삭제
 > 4. package.json 파일 수정
 > 5. name, description -> 자유롭게
-> 6. repository-url / bugs-url / homepage -> 깃헙에 올릴 이름으로 ? 부분 새로 쓰기
+> 6. repository-url / bugs-url / homepage -> 깃헙에 올릴 이름으로 <phaser-template> 부분 새로 쓰기
 > 7. 커밋하고 새로 깃헙에 올려서 버전관리
 
 
